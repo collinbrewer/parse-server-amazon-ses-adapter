@@ -1,0 +1,31 @@
+{
+  "name": "parse-server-amazon-ses-adapter",
+  "version": "0.0.1",
+  "description": "Used to send Parse Server password reset and email verification emails with Amazon SES.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinbrewer/parse-server-amazon-ses-adapter.git"
+  },
+  "keywords": [
+    "parse",
+    "server",
+    "amazon",
+    "ses",
+    "mail",
+    "email",
+    "adapter"
+  ],
+  "author": "Collin Brewer <collin@brewer-collective.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collinbrewer/parse-server-amazon-ses-adapter/issues"
+  },
+  "homepage": "https://github.com/collinbrewer/parse-server-amazon-ses-adapter#readme",
+  "dependencies": {
+    "amazon-ses-mailer": "^0.2.0"
+  }
+}
