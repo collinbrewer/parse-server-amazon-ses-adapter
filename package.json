@@ -1,6 +1,6 @@
 {
   "name": "parse-server-amazon-ses-adapter",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Used to send Parse Server password reset and email verification emails with Amazon SES.",
   "main": "index.js",
   "scripts": {
