@@ -31,6 +31,6 @@ module.exports=function(options){
    };
 
    return {
-      sendMail: sendMail;
+      sendMail: sendMail
    }
 };
