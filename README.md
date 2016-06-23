@@ -3,6 +3,9 @@ Used to send Parse Server password reset and email verification emails with Amaz
 
 Read more here: https://github.com/ParsePlatform/parse-server.
 
+## Compatibility
+Tested with Parse Server v2.2.13
+
 ## Install
 ```sh
 $ npm install parse-server-amazon-ses-adapter -S
